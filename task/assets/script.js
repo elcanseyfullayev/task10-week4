@@ -13,20 +13,6 @@
 // console.log(element);
 
 
-
-
-// let num = 0 
-// function indexOf45(...params) {
-//     for (let i = 0; i < params.length; i++) {
-//         if (params[i] == 45) {
-//             num=i
-//         }
-//     }
-//     return num
-
-// }
-
-
 // 2. Verilmiş elementin bir ölçülü massivdə neçə dəfə təkrarlandığını tapan function tərtib edin.
 
 // function repeat(arr,number) {
